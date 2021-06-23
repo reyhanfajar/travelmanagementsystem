@@ -7,13 +7,13 @@
     -> Allow administrator to store a new travel option, edit it, and even delete it.
     
 ### Functions:
-    -newTrip : Stores a new inputted user data.
-    -searchUser : Search a specific user data.
-    -showUser : Shows all stored user data.
-    -editUser : Edit details of a user.
-    -deleteUser : Delete a particular user data.
-    -Add_trip : Creates a new travel option.
-    -Edit_trip : Edit details of travel option.
+    -newTrip     : Stores a new inputted user data.
+    -searchUser  : Search a specific user data.
+    -showUser    : Shows all stored user data.
+    -editUser    : Edit details of a user.
+    -deleteUser  : Delete a particular user data.
+    -Add_trip    : Creates a new travel option.
+    -Edit_trip   : Edit details of travel option.
     -Delete_trip : Delete a particular data.
 
 ### Video link for explanation (Indonesian) : https://drive.google.com/file/d/1fjmQSyLnlAADP2jKkkz4jwpqn04XSeZk/view?usp=sharing

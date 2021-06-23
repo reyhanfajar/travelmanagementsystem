@@ -1,0 +1,8 @@
+1 Jakarta-Bandung 1000
+2 Jakarta-Yogya 2000
+3 Surabaya-Bali 3000
+4 Bogor-Bali 10000
+5 Yogya-Semarang 4000
+6 Semarang-Jakarta 5000
+7 Solo-Malang 20000
+
